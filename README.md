@@ -1,2 +1,2 @@
 # cpp
-this for leetcode practic e problems 
+this for quick revision of c++ theory with code.
